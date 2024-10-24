@@ -1,0 +1,31 @@
+html {
+  font-family: "Libre Baskerville", serif;
+}
+
+main {
+  padding-block: 0.5rem;
+  padding-inline: 2rem;
+}
+
+a {
+  color: rgb(68, 147, 248);
+}
+
+ul>li {
+  margin-bottom: 0.4rem;
+}
+
+.content {
+  display: flex;
+  gap: 2rem;
+  justify-content: space-between;
+}
+
+.content>img {
+  width: 30rem;
+  height: auto;
+}
+
+p {
+  line-height: 1.5rem;
+}
